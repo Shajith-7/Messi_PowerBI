@@ -1,4 +1,6 @@
-📊 Lionel Messi's Goals at FC Barcelona – Power BI Dashboard
+**📊 Lionel Messi's Goals at FC Barcelona – Power BI Dashboard
+
+
 This repository contains a Power BI dashboard that visualizes all the goals scored by football legend Lionel Messi during his time at FC Barcelona. The dashboard provides an interactive and data-driven exploration of Messi’s legendary goal-scoring record, highlighting key statistics, trends, and insights.
 
 📌 Features of the Dashboard
