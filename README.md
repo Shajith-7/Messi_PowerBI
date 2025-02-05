@@ -1,18 +1,23 @@
-**📊 Lionel Messi's Goals at FC Barcelona – Power BI Dashboard
+## ⚽ Lionel Messi Goal Scoring Dashboard – FC Barcelona
+This Power BI dashboard provides an in-depth analysis of **Lionel Messi’s goal-scoring journey during his legendary career at FC Barcelona**. It highlights all his goals across various competitions, showcasing his brilliance and consistency as one of the greatest players in football history.
 
+## 📊 Dashboard Overview:
+🔢 Total Goals: A comprehensive count of all goals scored for FC Barcelona.
+🏆 Competition-wise Breakdown: Analyze goals by competition (La Liga, UEFA Champions League, Copa del Rey, etc.).
+📈 Year-wise Performance: Track Messi’s goal-scoring form over different seasons.
+⚔️ Opponent Analysis: Discover which teams Messi has scored against the most.
+🎯 Goal Types: Breakdown of goals by body part (left foot, right foot, header) and distance.
 
-This repository contains a Power BI dashboard that visualizes all the goals scored by football legend Lionel Messi during his time at FC Barcelona. The dashboard provides an interactive and data-driven exploration of Messi’s legendary goal-scoring record, highlighting key statistics, trends, and insights.
+## 📚 Data Sources:
+The data for this dashboard is sourced from verified football statistics websites like FC Barcelona official website and also available at Kaggle.
 
-📌 Features of the Dashboard
-✅ Total Goals Analysis – Breakdown of Messi’s goals across different seasons.
-✅ Goal Types & Situations – Visuals for goals scored via left foot, right foot, headers, free kicks, and penalties.
-✅ Opponent Analysis – Insights into Messi’s most frequent victims.
-✅ Competition Breakdown – Goals in La Liga, UEFA Champions League, Copa del Rey, Supercopa, and Club World Cup.
-✅ Goal Distribution by Season – Interactive trend analysis of Messi's scoring consistency.
-✅ Home vs. Away Goals – Performance comparison across different venues.
+## 💾 File Details:
+Lionel_Messi_Barca_Goals.pbix – Power BI file containing all visualizations and data.
 
-📂 Files in this Repository
-Messi_Goals.pbix – The Power BI dashboard file.
-Messi_Goals_Dataset.csv – The dataset used for visualization.
-README.md – This documentation file.
-Images/ – Preview screenshots of the dashboard.
+## 🛠️ How to Use:
+Download the .pbix file from this repository.
+Open it using Power BI Desktop.
+Interact with the dashboard to explore Messi’s goal-scoring records using filters and slicers.
+
+## 🐐 About Lionel Messi at FC Barcelona:
+Lionel Messi’s career at FC Barcelona is nothing short of legendary. With 672 goals across all competitions, he became the club’s all-time top scorer and solidified his status as the greatest of all time. This dashboard celebrates his goal-scoring legacy at Barça with detailed visualizations.
