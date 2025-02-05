@@ -18,6 +18,7 @@ Lionel_Messi_Barca_Goals.pbix – Power BI file containing all visualizations an
 
 ## 🛠️ How to Use:
 Download the .pbix file from this repository.
+
 Open it using Power BI Desktop.
 Interact with the dashboard to explore Messi’s goal-scoring records using filters and slicers.
 
