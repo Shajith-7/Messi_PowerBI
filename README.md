@@ -1,6 +1,8 @@
 ## ⚽ Lionel Messi Goal Scoring Dashboard – FC Barcelona
 This Power BI dashboard provides an in-depth analysis of **Lionel Messi’s goal-scoring journey during his legendary career at FC Barcelona**. It highlights all his goals across various competitions, showcasing his brilliance and consistency as one of the greatest players in football history.
 
+![Alt Text](https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltf7695f98c1f01bd9/62cbfb91c9db8842cf76cb5b/GHP_MESSI-BOOTS_16-9.jpg)
+
 ## 📊 Dashboard Overview:
 🔢 Total Goals: A comprehensive count of all goals scored for FC Barcelona.
 🏆 Competition-wise Breakdown: Analyze goals by competition (La Liga, UEFA Champions League, Copa del Rey, etc.).
