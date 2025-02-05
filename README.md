@@ -4,11 +4,11 @@ This Power BI dashboard provides an in-depth analysis of **Lionel Messi’s goal
 ![Alt Text](https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltf7695f98c1f01bd9/62cbfb91c9db8842cf76cb5b/GHP_MESSI-BOOTS_16-9.jpg)
 
 ## 📊 Dashboard Overview:
-🔢 Total Goals: A comprehensive count of all goals scored for FC Barcelona.<br>
-🏆 Competition-wise Breakdown: Analyze goals by competition (La Liga, UEFA Champions League, Copa del Rey, etc.).<br>
-📈 Year-wise Performance: Track Messi’s goal-scoring form over different seasons.<br>
-⚔️ Opponent Analysis: Discover which teams Messi has scored against the most.<br>
-🎯 Goal Types: Breakdown of goals by body part (left foot, right foot, header) and distance.
+**🔢 Total Goals:** A comprehensive count of all goals scored for FC Barcelona.<br>
+**🏆 Competition-wise Breakdown:** Analyze goals by competition (La Liga, UEFA Champions League, Copa del Rey, etc.).<br>
+**📈 Year-wise Performance:** Track Messi’s goal-scoring form over different seasons.<br>
+**⚔️ Opponent Analysis:** Discover which teams Messi has scored against the most.<br>
+**🎯 Goal Types:** Breakdown of goals by body part (left foot, right foot, header) and distance.
 
 ## 📚 Data Sources:
 The data for this dashboard is sourced from verified football statistics websites like FC Barcelona official website and also available at Kaggle.
